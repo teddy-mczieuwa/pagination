@@ -1,3 +1,3 @@
-# Basic setup for vue 3 project with tailwind
+# Basic pagination
 
 # start ` npm run dev`
